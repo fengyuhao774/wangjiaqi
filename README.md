@@ -1,2 +1,6 @@
 # wangjiaqi
-i love java
+class demo{
+public static void main(String [] args){
+system.out.println("helo");
+}
+}
